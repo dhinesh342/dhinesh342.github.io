@@ -1,0 +1,11 @@
+.btn-parent-div{
+    margin: 10px;
+}
+
+.fav-clicked{
+    border-radius: 10px;
+    border-color: grey;
+    color: black;
+    margin:5px;
+    background-color: grey;
+}
